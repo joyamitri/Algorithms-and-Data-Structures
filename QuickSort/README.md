@@ -1,0 +1,1 @@
+Implement the in-place version of Quicksort. Let pivot be the first element in the subarray. Display the array at every iteration and highlight pivot.
