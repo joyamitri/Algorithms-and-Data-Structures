@@ -1,0 +1,1 @@
+Implement an algorithm that finds the connected components in an undirected graph. It should display the vertices per component, for example: C1: A, B, C, D; C2: E, F, G; C3:H, I, J, K, etc.
