@@ -1,0 +1,1 @@
+Given a one-dimensional array of integers, use dynamic programming to find the contiguous subarray within this array  of numbers which has the largest sum. For example, given A=  {−2, 1, −3, 4, −1, 2, 1, −5, 4}, the subarray that has the largest sum is [4, -1, 2, 1] (sum=6).
