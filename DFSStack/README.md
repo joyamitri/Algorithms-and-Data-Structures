@@ -1,0 +1,1 @@
+Implement DFS using stacks.  Display the list of vertices in the order in which they are marked as visited. Use  adjacency list to implement the undirected graph. Use an array to implement the stack. What should the size of the stack be?
