@@ -1,0 +1,1 @@
+Given a sequence of  real numbers, use dynamic programming to find the longest increasing subsequence in which the values form a strictly increasing sequence. The values do not have to be consecutive. For example, if the sequence is 1,10, 5, 2, 17, 8, 9, 11,  the longest strictly increasing sequence is 1, 5, 8, 9,11.
